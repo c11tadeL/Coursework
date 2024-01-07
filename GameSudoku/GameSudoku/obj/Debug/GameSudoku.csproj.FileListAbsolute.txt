@@ -1,0 +1,26 @@
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\bin\Debug\GameSudoku.exe.config
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\bin\Debug\GameSudoku.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\bin\Debug\GameSudoku.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.csproj.AssemblyReference.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.Sudoku.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.Level1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.Level2.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.Level3.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.Properties.Resources.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.csproj.GenerateResource.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.csproj.CoreCompileInputs.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\GameSudoku\obj\Debug\GameSudoku.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\bin\Debug\GameSudoku.exe.config
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\bin\Debug\GameSudoku.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\bin\Debug\GameSudoku.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.csproj.AssemblyReference.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.Sudoku.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.Level1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.Level2.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.Level3.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.Properties.Resources.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.csproj.GenerateResource.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.csproj.CoreCompileInputs.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия — копия\GameSudoku\obj\Debug\GameSudoku.pdb

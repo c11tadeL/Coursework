@@ -1,0 +1,48 @@
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe.config
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.AssemblyReference.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Form1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Properties.Resources.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.GenerateResource.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.CoreCompileInputs.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Level1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe.config
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.AssemblyReference.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Form1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Level1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Properties.Resources.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.GenerateResource.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.CoreCompileInputs.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe.config
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.AssemblyReference.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Form1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Level1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Properties.Resources.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.GenerateResource.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.CoreCompileInputs.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Level3.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2)\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Level2.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe.config
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\bin\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.AssemblyReference.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.Properties.Resources.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.GenerateResource.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.csproj.CoreCompileInputs.cache
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.exe
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\kursa4ahahahahah.pdb
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\GameSudoku.Sudoku.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\GameSudoku.Level1.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\GameSudoku.Level2.resources
+C:\Users\apopi\source\repos\kursa4ahahahahah — копия — копия (2) — копия\kursa4ahahahahah\obj\Debug\GameSudoku.Level3.resources
